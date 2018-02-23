@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string-array name="citys">
+        <item>Ankara</item>
+        <item>İstanbul</item>
+        <item>İzmir</item>
+        <item>Kocaeli</item>
+        <item>Bursa</item>
+        <item>Erzincan</item>
+        <item>Rize</item>
+        <item>Trabzon</item>
+        <item>Ordu</item>
+        <item>Yozgat</item>
+        <item>Hatay</item>
+        <item>Düzce</item>
+        <item>Bolu</item>
+        <item>Erzurum</item>
+
+    </string-array>
+</resources>
